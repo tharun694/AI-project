@@ -1,0 +1,9 @@
+2025-06-27 10:42:29.947247+05:30 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "RAWDATA" not found; SQL statement:
+select*from RawData [42102-232]
+2025-06-27 10:42:40.976288+05:30 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "RAWDATA" not found; SQL statement:
+select*from rawdata [42102-232]
+2025-06-27 12:45:28.720525+05:30 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "RAW" not found; SQL statement:
+SELECT*FROM RAW-DATA [42102-232]
